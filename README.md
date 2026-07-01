@@ -1,4 +1,6 @@
-# SocialFinder OSINT - Startup MVP
+#It is a demo sample not a real one so don't take it seriously
+
+# SocialFinder OSINT 
 
 **SocialFinder OSINT** is a high-fidelity, single-page web application (SPA) acting as a simulated Open Source Intelligence dashboard. It implements pixel-level client-side image similarity hashing (aHash), real-time biometric mesh rendering, dark-theme geospatial tracking, and simulated digital footprints.
 
